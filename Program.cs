@@ -1,7 +1,5 @@
 ﻿
-using DesignPattern;
-
-namespace DesignPatternsSolution
+namespace DesignPattern
 {
     class Program
     {
@@ -12,7 +10,7 @@ namespace DesignPatternsSolution
             Console.WriteLine("2. Factory Method");
             Console.WriteLine("3. Decorator");
             Console.WriteLine("4. Observer");
-      
+
             // Add more opt
             var choice = Console.ReadLine();
             switch (choice)

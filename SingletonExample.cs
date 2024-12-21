@@ -49,6 +49,4 @@ namespace DesignPattern
             Console.WriteLine("Singleton instance is doing something!");
         }
     }
-
-
 }

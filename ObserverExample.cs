@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace DesignPattern
 {
-
     // The IObserver interface declares the Update method, which is called to notify the observer of changes.
     public interface IObserver
     {
